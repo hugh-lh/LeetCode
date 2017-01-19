@@ -11,17 +11,6 @@ class Node {
 	}
 }
 
-/*class ReturnType {
-	int numberOfNodes;
-	double sum;
-	Node candidate;
-	public ReturnType(int numberOfNodes, double sum, Node candidate) {
-		this.numberOfNodes = numberOfNodes;
-		this.sum = sum;
-		this.candidate = candidate;
-	}
-}*/
-
 class SumCount {
 	int number;
 	int sum;
